@@ -16,5 +16,10 @@ namespace WindowsFormsAppSpecButton
         {
             InitializeComponent();
         }
+
+        private void specialButton11_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Взрыв :)");
+        }
     }
 }
